@@ -122,6 +122,8 @@ img {
 }
 .inner-content-text .btn.btn-default {
     display: inline-block;
+    height: 50px;
+    vertical-align: middle;
 }
 .inner-content-text .btn.btn-default + .btn.btn-default {
     margin-left: 24px;
@@ -142,6 +144,7 @@ img {
 }
 .content-item-text img {
     margin-right: 10px;
+    margin-bottom: -4px;
 }
 .content-title {
     margin-bottom: 80px;
@@ -150,4 +153,54 @@ img {
     margin-top: 40px;
 }
 /* ============ Content-Item End  ============= */
+/* ============ Small-Content-Section Start  ============= */
+.small-content-section {
+    background: url(../img/small-section-bg.jpg) no-repeat center /cover;
+}
+.small-content-title.title {
+    font-weight: 400;
+}
+.small-content-wrap {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    text-align: center;
+}
+.small-content-section .small-text {
+    margin-top: 20px;
+    margin-bottom: 65px;
+}
+.small-content-text .btn.btn-default {
+    display: inline-block;
+    width: 240px;
+    height: 50px;
+    vertical-align: middle;
+}
+.small-content-text .icon-apple {
+    margin-right: 25px;
+    vertical-align: middle;
+}
+.small-content-text .btn.btn-default + .btn.btn-default {
+    margin-left: 24px;
+}
+/* ============ Small-Content-Section End  ============= */
+/* ============ Footer Start  ============= */
+.footer-wrap {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    padding: 40px 0 80px;
+    -ms-flex-pack: distribute;
+    justify-content: space-around;
+    font-size: 20px;
+    font-weight: 700;
+}
+.footer-mail {
+    color: #469ee0;
+    margin-bottom: 40px;
+}
+/* ============ Footer End  ============= */
 /* Custom Style End */
