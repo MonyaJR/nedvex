@@ -130,7 +130,10 @@ img {
 }
 /* ============ Inner End  ============= */
 /* ============ Content-Item Start  ============= */
-.content-item .content-title-text {
+.content-item-wrap {
+    display: flex;
+}
+.content-item-wrap .content-title-text {
     margin-top: 10px;
 }
 .content-item-text img {
@@ -138,6 +141,9 @@ img {
 }
 .content-title {
     margin-bottom: 80px;
+}
+.content-item-wrap .content-item-text + .content-item-text {
+    margin-top: 40px;
 }
 /* ============ Content-Item End  ============= */
 /* Custom Style End */
