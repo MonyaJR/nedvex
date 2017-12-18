@@ -56,10 +56,6 @@ img {
     top: 0;
     z-index: 99;
 }
-.logo {
-    float: left;
-}
-
 @media (max-width: 767px) {
     .small-section {
         padding: 65px 0;
