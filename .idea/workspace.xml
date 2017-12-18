@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f0889722-5e23-4b5b-8060-15a618ac321c" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/app/css/style.css" afterPath="$PROJECT_DIR$/app/css/style.css" />
-      <change beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
       <change beforePath="$PROJECT_DIR$/source/css/style.css" afterPath="$PROJECT_DIR$/source/css/style.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -38,10 +36,10 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="189" column="26" lean-forward="false" selection-start-line="189" selection-start-column="26" selection-end-line="189" selection-end-column="26" />
+            <state relative-caret-position="268">
+              <caret line="302" column="44" lean-forward="true" selection-start-line="302" selection-start-column="44" selection-end-line="302" selection-end-column="44" />
               <folding>
-                <marker date="1513614112888" expanded="true" signature="1909:2027" ph="..." />
+                <marker date="1513614410963" expanded="true" signature="1909:2027" ph="..." />
               </folding>
             </state>
           </provider>
@@ -181,12 +179,12 @@
       <updated>1513266578385</updated>
       <workItem from="1513266581430" duration="9229000" />
       <workItem from="1513331632726" duration="14364000" />
-      <workItem from="1513440951080" duration="20874000" />
+      <workItem from="1513440951080" duration="21128000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44467000" />
+    <option name="totallyTimeSpent" value="44721000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="44" width="1260" height="709" extended-state="0" />
@@ -201,7 +199,7 @@
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3355049" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3355049" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -251,7 +249,7 @@
         <state relative-caret-position="950">
           <caret line="50" column="24" lean-forward="true" selection-start-line="50" selection-start-column="24" selection-end-line="50" selection-end-column="24" />
           <folding>
-            <marker date="1513614112888" expanded="true" signature="1909:2027" ph="..." />
+            <marker date="1513614410963" expanded="true" signature="1909:2027" ph="..." />
           </folding>
         </state>
       </provider>
@@ -295,10 +293,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/source/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="189" column="26" lean-forward="false" selection-start-line="189" selection-start-column="26" selection-end-line="189" selection-end-column="26" />
+        <state relative-caret-position="268">
+          <caret line="302" column="44" lean-forward="true" selection-start-line="302" selection-start-column="44" selection-end-line="302" selection-end-column="44" />
           <folding>
-            <marker date="1513614112888" expanded="true" signature="1909:2027" ph="..." />
+            <marker date="1513614410963" expanded="true" signature="1909:2027" ph="..." />
           </folding>
         </state>
       </provider>
